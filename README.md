@@ -28,3 +28,50 @@ LinkedIn: www.linkedin.com/in/rafael-gomes-garcia-a24823294
 
 Email: rafel.ggarcia@yahoo.com.br
 
+https://github-readme-stats.vercel.app/api?digiFael=anuraghazra
+
+---
+### Linguagens e tecnologias
+
+<img 
+    align="Left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>    
+
+<img 
+  align="Left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img 
+  align="Left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<br/>
+<br/>
+
+### Estatística
+
+<img 
+  align="Left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=digiFael&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+
+          
+
