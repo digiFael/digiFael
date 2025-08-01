@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Olá, eu sou o Rafael Gomes Garcia!
+🎓 Estudante de Engenharia da Computação
+💻 Apaixonado por programação e desenvolvimento de projetos
+🚀 Aprendendo novas linguagens e tecnologias
 
-<!--
-**digiFael/digiFael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Sobre mim:
+Atualmente focado em meus estudos na faculdade
 
-Here are some ideas to get you started:
+Gosto de explorar áreas como desenvolvimento de software, automação e inteligência artificial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sempre buscando novos desafios para melhorar minhas habilidades
+
+🌱 No momento estou aprendendo:
+Linguagens: Java, C , Sql
+
+Ferramentas: Git, VS Code, MySql
+
+Conceitos: Estrutura de dados, algoritmos, banco de dados
+
+🛠 Projetos:
+Estou desenvolvendo projetos pessoais para praticar e compartilhar conhecimento
+
+Em breve mais atualizações aqui no GitHub!
+
+📫 Como me encontrar:
+
+LinkedIn: www.linkedin.com/in/rafael-gomes-garcia-a24823294
+
+Email: rafel.ggarcia@yahoo.com.br
+
