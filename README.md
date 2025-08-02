@@ -79,6 +79,9 @@ https://github-readme-stats.vercel.app/api?digiFael=anuraghazra
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiFael&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"
 />
 
+ ![snake gif](https://github.com/digiFael/digiFael/blob/output/github-contribution-grid-snake.gif)
+
+
 
           
 
