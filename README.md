@@ -82,7 +82,7 @@ https://github-readme-stats.vercel.app/api?digiFael=anuraghazra
 <div align=center>
 <img src="https://raw.githubusercontent.com/digiFael/digiFael/output/snake.svg" alt="Snake animation" />
 </div>
-##
+
 
 
           
